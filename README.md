@@ -7,12 +7,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaiyangAh&theme=transparent" />
 </p>
 
-| About me 关于我  | Connect With Me 联系我           |
-| ------- | ---------------- |
-| github :[https://github.com/TaiyangAh](https://github.com/TaiyangAh)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=TaiyangAh" id="counter"/>
-
-
 <!--
 **TaiyangAh/TaiyangAh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
